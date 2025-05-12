@@ -4,7 +4,10 @@ import numpy as np
 import torch
 from datasets import load_dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, DataCollatorWithPadding
-from transformers import AdamW, get_linear_schedule_with_warmup
+# from transformers import AdamW, get_linear_schedule_with_warmup
+from torch.optim import AdamW
+from transformers import get_scheduler
+
 import wandb
 import matplotlib.pyplot as plt
 
@@ -61,7 +64,11 @@ def main():
         # Prepare optimizer and learning rate scheduler
         optimizer = AdamW(model.parameters(), lr=args.lr)
         num_training_steps = args.num_train_epochs * (len(train_dataset) // args.batch_size + int(len(train_dataset) % args.batch_size != 0))
-        lr_scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=num_training_steps)
+        # lr_scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=num_training_steps)
+        lr_scheduler = get_scheduler(
+    "linear", optimizer=optimizer, num_warmup_steps=0, num_training_steps=num_training_steps
+)
+
         # Training loop
         model.train()
         global_step = 0
