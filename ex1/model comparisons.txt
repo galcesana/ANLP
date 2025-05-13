@@ -1,0 +1,525 @@
+--- Example 11 ---
+Sentence1: The increase reflects lower credit losses and favorable interest rates .
+Sentence2: The gain came as a result of fewer credit losses and lower interest rates .
+Gold label: 1
+
+--- Example 20 ---
+Sentence1: " There 's no reason for you to keep your skills up , " the judge told the convicted crack cocaine kingpin .
+Sentence2: " There 's no reason for you to keep your skills up , " U.S. District Judge J. Frederick Motz told McGriff after he was sentenced .
+Gold label: 1
+
+--- Example 66 ---
+Sentence1: Kingston also finished with 67 after producing six birdies on the back nine .
+Sentence2: South Africa 's James Kingston is also on five under after blitzing six birdies on his back nine .
+Gold label: 1
+
+--- Example 79 ---
+Sentence1: " Americans don 't cut and run , we have to see this misadventure through , " she said .
+Sentence2: She also pledged to bring peace to Iraq : " Americans don 't cut and run , we have to see this misadventure through . "
+Gold label: 0
+
+--- Example 91 ---
+Sentence1: They were at Raffles Hospital over the weekend for further evaluation .
+Sentence2: They underwent more tests over the weekend , and are now warded at Raffles Hospital .
+Gold label: 1
+
+--- Example 95 ---
+Sentence1: MGM , NBC and Liberty executives were not immediately available for comment .
+Sentence2: A Microsoft spokesman was not immediately available to comment .
+Gold label: 0
+
+--- Example 96 ---
+Sentence1: The ADRs fell 10 cents to $ 28.95 at 10 : 06 a.m. in New York Stock Exchange composite trading today .
+Sentence2: Shares of Fox Entertainment Group Inc . , News Corp. ' s U.S. media and entertainment arm , fell 45 cents to $ 26.85 in New York Stock Exchange composite trading .
+Gold label: 0
+
+--- Example 121 ---
+Sentence1: In a not-too-subtle swipe at Dean , he predicted Americans would not elect a Democrat " who sounds an uncertain trumpet in these dangerous times . "
+Sentence2: They will not elect as president a Democrat who sounds an uncertain trumpet in these dangerous times . "
+Gold label: 0
+
+--- Example 128 ---
+Sentence1: At least five class-action lawsuits have been filed , including one in Pennsylvania .
+Sentence2: At least five class-action lawsuits have been filed on behalf of hormone users .
+Gold label: 0
+
+--- Example 150 ---
+Sentence1: Hotly contested legislation that would change the state 's takeover law and help a Michigan-based development company fend off a takeover cleared the state Senate on Thursday .
+Sentence2: Legislation that would change state takeover law and help Bloomfield Hills-based Taubman Centers Inc. fend off a $ 1-billion takeover won committee approval Tuesday .
+Gold label: 1
+
+--- Example 227 ---
+Sentence1: As part of a restructuring Peregrine sold its Remedy help desk software unit last year to BMC Software Inc .
+Sentence2: Peregrine sold its Remedy business unit to BMC Software in November for $ 355 million .
+Gold label: 0
+
+--- Example 234 ---
+Sentence1: Caldera acquired the Unix server software of the original SCO and changed its name to the SCO Group .
+Sentence2: SCO changed its name to Tarantella , and Caldera later changed its name to the SCO Group .
+Gold label: 0
+
+--- Example 275 ---
+Sentence1: " In so many different ways , the artistry of black musicians has conveyed the experience of black Americans throughout our history , " Bush said .
+Sentence2: Surrounded by singers from Harlem , Bush said : ' ' The artistry of black musicians has conveyed the experience of black Americans throughout our history .
+Gold label: 0
+
+--- Example 278 ---
+Sentence1: The Standard & Poor 's 500 stock index pulled back by nearly 4 points to 1,066.62 .
+Sentence2: The broad Standard & Poor 's 500 Index < .SPX > fell 0.70 points , or 0.07 percent , to 1,069.42 .
+Gold label: 1
+
+--- Example 323 ---
+Sentence1: Some 95 million Americans -- half of all households -- invest in mutual funds .
+Sentence2: About half of all U.S. households have money in mutual funds .
+Gold label: 1
+
+--- Example 328 ---
+Sentence1: School officials said Van-Vliet reported the accident using the bus ’ radio .
+Sentence2: Van-Vliet , who was also injured , called in the accident on the school bus radio .
+Gold label: 0
+
+--- Example 335 ---
+Sentence1: But 13 people have been killed since 1900 and hundreds injured .
+Sentence2: Runners are often injured by bulls and 13 have been killed since 1900 .
+Gold label: 0
+
+--- Example 344 ---
+Sentence1: On Tuesday , the central bank left interest rates steady , as expected , but also declared that overall risks were weighted toward weakness and warned of deflation risks .
+Sentence2: The central bank 's policy board left rates steady for now , as widely expected , but surprised the market by declaring that overall risks were weighted toward weakness .
+Gold label: 0
+
+--- Example 347 ---
+Sentence1: He said the FDA was hoping Congress and the courts would bring clarity to the situation and some financial relief to consumers .
+Sentence2: He said FDA hopes Congress and the courts will bring clarity to the situation and some financial relief to consumers — perhaps before the 2004 elections .
+Gold label: 0
+
+--- Example 362 ---
+Sentence1: The last time the S & P had a larger one-day point loss was also May 19 , when it gave back 23.53 to close at 920.77 .
+Sentence2: The last time it had a larger one-day loss was July 1 , 2002 , when it shed 59.41 to close at 1,403.80 .
+Gold label: 1
+
+--- Example 368 ---
+Sentence1: Lowe 's , with about half as many stores , reported a 33 percent increase in third-quarter profit behind a 12 percent jump in same-store sales .
+Sentence2: Home Depot reported a 22 percent jump in third-quarter profit behind a nearly 8 percent rise in same-store sales .
+Gold label: 0
+
+--- Example 378 ---
+Sentence1: He had been arrested twice before for trespassing and barred from the complex - home to his mother and two children .
+Sentence2: He had been arrested twice before for trespassing and was barred from the complex .
+Gold label: 0
+
+--- Example 387 ---
+Sentence1: Officers threw him to the ground and handcuffed him , and Reyna dropped a knee into his back , according to testimony .
+Sentence2: That 's when officers threw him to the ground and handcuffed him , according to testimony .
+Gold label: 0
+
+--- Example 391 ---
+Sentence1: They reported symptoms of fever , headache , rash and muscle aches .
+Sentence2: Symptoms include a stiff neck , fever , headache and sensitivity to light .
+Gold label: 0
+
+--- Example 425 ---
+Sentence1: The monkeys could track their progress by watching a schematic representation of the arm and its motions on a video screen .
+Sentence2: The arm was kept in a separate room , but the monkeys could track their progress by watching a representation of the arm and its motions on a video screen .
+Gold label: 0
+
+--- Example 441 ---
+Sentence1: The victim , whose name was not released , underwent surgery at the hospital .
+Sentence2: The wounded doctor , whose name was withheld , underwent surgery at the hospital for three gunshot wounds .
+Gold label: 0
+
+--- Example 454 ---
+Sentence1: In January 2000 , notebooks represented less than 25 percent of sales volume .
+Sentence2: That compares with January 2000 , when laptops represented less than 25 percent of sales volume , NPD said .
+Gold label: 1
+
+--- Example 516 ---
+Sentence1: The new policy gives greatest weight to grades , test scores and a student 's high school curriculum .
+Sentence2: Academic achievement -- including grades , test scores and high school curriculum -- are given the highest priority .
+Gold label: 1
+
+--- Example 543 ---
+Sentence1: Oracle Corp 's Chairman and CEO Larry Ellison didn 't rule out sweetening the company 's unsolicited offer to acquire rival PeopleSoft Inc .
+Sentence2: Oracle chairman Larry Ellison has hinted that the company could yet again increase its offer for rival PeopleSoft .
+Gold label: 1
+
+--- Example 550 ---
+Sentence1: The plane was estimated to be within 100 pounds of its maximum takeoff weight .
+Sentence2: US Airways Flight 5481 , which crashed Jan. 8 , was judged to be within 100 pounds of its maximum takeoff weight .
+Gold label: 0
+
+--- Example 552 ---
+Sentence1: He failed a field sobriety test and a blood-alcohol test produced a reading of 0.18 -- well above Tennessee 's level of presumed intoxication of 0.10 , police said .
+Sentence2: The player 's eyes were bloodshot and a blood-alcohol test produced a reading of 0.18 - well above Tennessee 's level of presumed intoxication of 0.10 , the report said .
+Gold label: 1
+
+--- Example 562 ---
+Sentence1: " The recent turnaround in the stock market and an easing in unemployment claims should keep consumer expectations at current levels and may signal more favorable economic times ahead . "
+Sentence2: The recent turnaround in the stock market and an easing in unemployment claims " may signal more favorable economic times ahead , " she said .
+Gold label: 0
+
+--- Example 572 ---
+Sentence1: Extra guidance on countering suicide bombers is now being given to officers in London and will be extended over the next month to police around the country .
+Sentence2: Extra guidance on countering suicide bombers is now being given to officers in London , and will be extended to other forces next month .
+Gold label: 1
+
+--- Example 575 ---
+Sentence1: Perry has called lawmakers into two special sessions to address congressional redistricting .
+Sentence2: Perry has since called two special legislative sessions to try force the redistricting plan through .
+Gold label: 1
+
+--- Example 584 ---
+Sentence1: The technology-laced Nasdaq Composite Index was off 11.64 points , or 0.60 percent , at 1,912.65 .
+Sentence2: The technology-laced Nasdaq Composite Index ( .IXIC : Quote , Profile , Research ) ended off 2.96 points , or 0.15 percent , at 1,921.33 .
+Gold label: 1
+
+--- Example 597 ---
+Sentence1: The two-year note US2YT = RR fell 5 / 32 in price , taking its yield to 1.23 percent from 1.16 percent late on Monday .
+Sentence2: The benchmark 10-year note US10YT = RR lost 11 / 32 in price , taking its yield to 3.21 percent from 3.17 percent late on Monday .
+Gold label: 0
+
+--- Example 617 ---
+Sentence1: Linda Saunders pleaded guilty in federal court to six charges , including extortion , money laundering and conspiracy .
+Sentence2: Former Phipps aides Linda Saunders and Bobby McLamb have both pleaded guilty to federal charges including extortion .
+Gold label: 0
+
+--- Example 628 ---
+Sentence1: Spokesmen for the FBI , CIA , Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on El Shukrijumah 's stay in Canada .
+Sentence2: The FBI , CIA , Canadian Security Intelligence Service and Royal Canadian Mounted Police declined to comment on the Washington Times report .
+Gold label: 0
+
+--- Example 691 ---
+Sentence1: " Unlike many early-stage Internet firms , Google is believed to be profitable .
+Sentence2: The privately held Google is believed to be profitable .
+Gold label: 0
+
+--- Example 737 ---
+Sentence1: Agents found more than 1,000 credit cards and credit card duplicating machines during a search of Ragin 's address .
+Sentence2: When Ragin 's address was raided , authorities found more than 1,000 credit cards and duplicating machines .
+Gold label: 1
+
+--- Example 740 ---
+Sentence1: NBC also is introducing three new dramas , including one starring West Wing fugitive Rob Lowe as a Washington lawyer .
+Sentence2: Three new dramas , including one starring The West Wing refugee Rob Lowe , will also be on the schedule , NBC announced yesterday .
+Gold label: 1
+
+--- Example 743 ---
+Sentence1: Brian Lara , the West Indies captain , was unbeaten on 93 at the rain interval while Marlon Samuels was five not out .
+Sentence2: Lara was unbeaten on 93 when the torrential rain stopped play with Marlon Samuels on five .
+Gold label: 1
+
+--- Example 745 ---
+Sentence1: And of those , 149 , or 55 % , " claimed to treat , prevent , diagnose or cure specific diseases . "
+Sentence2: And of those , 55 percent , or 149 , claimed to treat , prevent , diagnose or cure specific diseases -- despite the regulations prohibiting that kind of statement .
+Gold label: 0
+
+--- Example 749 ---
+Sentence1: For the full 12-month period ending June 30 , 2003 , advanced services lines for ADSL increased by 37 percent and cable modem connections increased by 75 percent .
+Sentence2: For the 12-month period ending June 30 , high-speed lines installed in homes and businesses increased by 45 percent .
+Gold label: 0
+
+--- Example 750 ---
+Sentence1: Hospitals and the Red Cross appealed to blood donors yesterday .
+Sentence2: The Connecticut Hospital Association joined the Red Cross Monday in calling for more blood donors .
+Gold label: 1
+
+--- Example 752 ---
+Sentence1: She recently got the endorsement of the National Organization for Women and the National Women 's Political Caucus .
+Sentence2: Moseley Braun has scored endorsements from the National Organization for Women and the National Women 's Political Caucus .
+Gold label: 1
+
+--- Example 757 ---
+Sentence1: State police said as many as 30 workers were trapped immediately after the garage collapsed .
+Sentence2: As many as 30 people were believed to be trapped inside initially , the state police said .
+Gold label: 1
+
+--- Example 762 ---
+Sentence1: OPEC producers at a meeting on Wednesday are set to pressure independent oil exporters to contribute to the cartel 's next supply cut to allow for the return of Iraqi oil .
+Sentence2: OPEC this week is set to pressure independent exporters to back the cartel 's next supply cut to prevent the resumption of Iraqi exports undercutting oil prices .
+Gold label: 1
+
+--- Example 771 ---
+Sentence1: The broad Standard & Poor 's 500 Index .SPX gained 22.25 points , or 2.23 percent , to 1,018.22 , based on the latest available figures .
+Sentence2: The broad Standard & Poor 's 500 Index .SPX gained 11.22 points , or 1.13 percent , at 1,007.19 .
+Gold label: 1
+
+--- Example 794 ---
+Sentence1: The industry 's largest association is urging its members not call the more than 50 million home and cellular numbers on the list .
+Sentence2: Meantime , the Direct Marketing Association said its members should not call the nearly 51 million numbers on the list .
+Gold label: 1
+
+--- Example 816 ---
+Sentence1: Only New Jersey now bans holders of learners permits or intermediate licenses from using cell phones , pagers or other wireless devices while driving .
+Sentence2: In addition , the NTSB also recommended to NHTSA that state legislation be enacted to prohibit holders of learners permits and intermediate licenses from using mobile phones while driving .
+Gold label: 0
+
+--- Example 864 ---
+Sentence1: After 10 years of debate , the government is requiring food labels to reveal exact levels of the artery clogger .
+Sentence2: That 's about to change , now that the government is requiring food labels to reveal exact levels of the artery clogger .
+Gold label: 1
+
+--- Example 868 ---
+Sentence1: The Dow Jones industrial average < .DJI > was off 58.69 points , or 0.64 percent , at 9,137.86 .
+Sentence2: The Dow Jones industrial average .DJI fell 79.43 points , or 0.86 percent , to 9,117.12 on Friday .
+Gold label: 1
+
+--- Example 872 ---
+Sentence1: Snow made his comments to Reuters on Friday but they were embargoed until Tuesday .
+Sentence2: Snow 's interview was conducted on Friday but embargoed until Tuesday .
+Gold label: 1
+
+--- Example 876 ---
+Sentence1: It closed Tuesday at its highest level since last June .
+Sentence2: On Tuesday , the S & P 500 rose to its highest since early December .
+Gold label: 0
+
+--- Example 881 ---
+Sentence1: In the latest top-level shuffle at CNN , Teya Ryan is leaving her post as general manager of U.S. programming , the network announced .
+Sentence2: In CNN 's latest move to rejuvenate ratings , the network has ousted Teya Ryan , general manager of U.S. programming .
+Gold label: 1
+
+--- Example 923 ---
+Sentence1: To date , 152 communities and the legislatures of Alaska , Hawaii and Vermont have approved resolutions condemning the act .
+Sentence2: About 150 local governments , including those of Carrboro , Alaska , Hawaii and Vermont , have approved similar resolutions .
+Gold label: 1
+
+--- Example 947 ---
+Sentence1: Terri Schiavo , 39 , suffered severe brain damage following a heart attack 13 years ago .
+Sentence2: She suffered severe brain damage following a heart attack in 1990 .
+Gold label: 1
+
+--- Example 990 ---
+Sentence1: The U.S. Capitol was evacuated yesterday after authorities detected a possibly hazardous material in the basement of the Senate wing , Capitol Police said .
+Sentence2: U.S. Capitol Police evacuated the Capitol yesterday after a sensor detected a possible biohazard in the Senate wing , but authorities later said it was a false alarm .
+Gold label: 0
+
+--- Example 1001 ---
+Sentence1: Six Democrats are vying to succeed Jacques and have qualified for the Feb. 3 primary ballot .
+Sentence2: Six Democrats and two Republicans are running for her seat and have qualified for the Feb. 3 primary ballot .
+Gold label: 1
+
+--- Example 1003 ---
+Sentence1: Reuters witnesses said many houses had been flattened and the city squares were packed with crying children and the homeless , huddled in blankets to protect them from the cold .
+Sentence2: Reuters witnesses said public squares were packed with crying children and people left homeless , huddled in blankets to protect them from the cold .
+Gold label: 0
+
+--- Example 1063 ---
+Sentence1: The meeting was scheduled to end Wednesday night , with attendees approving resolutions that express the denomination 's view on issues but that are not binding on churches .
+Sentence2: On Wednesday , attendees will vote on resolutions that express the Southern Baptist view on issues , but are not binding on individual churches .
+Gold label: 1
+
+--- Example 1071 ---
+Sentence1: The Episcopal Diocese of Central Florida became one of the first in the nation Saturday to officially reject the national denomination 's policies on homosexuality .
+Sentence2: The Episcopal Diocese of Central Florida voted Saturday to repudiate a decision by the denomination 's national convention to confirm a gay man as bishop .
+Gold label: 1
+
+--- Example 1074 ---
+Sentence1: Democrats now hope to increase the value of awards proposed by Hatch and to create a mechanism to ensure the fund remains solvent .
+Sentence2: But he said labor wanted other senators to increase the value of awards proposed by Hatch and create a mechanism to ensure the fund remains solvent .
+Gold label: 1
+
+--- Example 1080 ---
+Sentence1: Revenue plunged 19 percent to $ 2.07 billion from $ 2.56 billion in the year-earlier quarter .
+Sentence2: The company had revenue of $ 2.56 billion in the first quarter of 2002 .
+Gold label: 0
+
+--- Example 1133 ---
+Sentence1: It also said it would reconsider its support for the 2003 show , which took place last month .
+Sentence2: The company added that it would reevaluate its commitment to the remaining New York show , which took place last month .
+Gold label: 1
+
+--- Example 1134 ---
+Sentence1: The two Democrats on the five-member FCC panel held a news conference to sway opinion against Powell .
+Sentence2: The two Democrats on the five-member FCC held a news conference to sway opinion against Powell and the panel 's two other Republicans .
+Gold label: 0
+
+--- Example 1180 ---
+Sentence1: Stout previously worked for General Electric subsidiary GE Capital Service Inc . , where he was vice president and chief technology and information officer .
+Sentence2: Stout comes to Sprint from GE Capital , where he served as chief technology and information officer .
+Gold label: 1
+
+--- Example 1189 ---
+Sentence1: The soldiers , from the 3rd Armored Cavalry , were hurt when their Humvee vehicle struck a mine in Hit .
+Sentence2: The pipeline exploded only a few hours after two U.S. soldiers from the 3rd Armored Cavalry were wounded when their Humvee vehicle detonated a land mine in the same area .
+Gold label: 0
+
+--- Example 1190 ---
+Sentence1: Several protesters were injured by a speeding police van that drove through the crowd .
+Sentence2: Anger grew after a police van injured several protesters by speeding through the crowd .
+Gold label: 0
+
+--- Example 1219 ---
+Sentence1: The shooting victim was taken to Kings County Hospital Center , where he later died , the police said .
+Sentence2: The victim , who was not identified , was taken to Kings County Hospital where he was pronounced dead .
+Gold label: 1
+
+--- Example 1233 ---
+Sentence1: That took the benchmark 10-year note US10YT = RR down 9 / 32 , its yield rising to 3.37 percent from 3.34 percent late on Thursday .
+Sentence2: That saw the benchmark 10-year note US10YT = RR slip 5 / 32 in price , taking its yield to 3.36 percent from 3.34 percent late on Thursday .
+Gold label: 0
+
+--- Example 1257 ---
+Sentence1: Mr Colpin did not specify whether it was this system that was at the centre of the investigation .
+Sentence2: Neither OLAF nor the Belgian prosecutors have specified if it was this system that was at the centre of the investigation .
+Gold label: 0
+
+--- Example 1287 ---
+Sentence1: U.S. forces struck dozens of targets on Monday , killing six guerrillas and arresting 21 others , the military said .
+Sentence2: U.S. forces struck dozens of targets on Monday , killing six guerrillas and arresting 99 others during 1,729 patrols and 25 raids conducted over 24 hours .
+Gold label: 0
+
+--- Example 1309 ---
+Sentence1: According to Microsoft 's latest proxy report , Ballmer held nearly 471 million shares as of Sept . 9 , 2002 .
+Sentence2: Mr. Ballmer held a split-adjusted 470.9 million Microsoft shares as of Sept . 9 - second only to Chairman Bill Gates .
+Gold label: 0
+
+--- Example 1326 ---
+Sentence1: " It was going to involve others , " said prosecutor Kenneth Karas at a Jan. 30 court hearing , reports the Associated Press .
+Sentence2: " It was going to involve others , " federal prosecutor Kenneth Karas said at a Jan. 30 court hearing , without further elaboration .
+Gold label: 1
+
+--- Example 1336 ---
+Sentence1: The commission estimates California lost $ 1.34 billion -- the most of any state -- to tax shelters in 2001 .
+Sentence2: The commission estimated California lost $ 937 million to corporate tax shelters in 2001 .
+Gold label: 0
+
+--- Example 1365 ---
+Sentence1: As a result of the decision , Brown said CareFirst subscribers won 't have access to Blue Cross Blue Shield nationwide and to international service providers .
+Sentence2: But if the trademark is withdrawn , subscribers won 't have access to Blue Cross Blue Shield nationwide and international service providers .
+Gold label: 1
+
+--- Example 1367 ---
+Sentence1: " Tomorrow at the Mission Inn , I have the opportunity to congratulate the governor-elect of the great state of California .
+Sentence2: " I have the opportunity to congratulate the governor-elect of the great state of California , and I 'm looking forward to it . "
+Gold label: 0
+
+--- Example 1395 ---
+Sentence1: If convicted of the spying charges , he could face the death penalty .
+Sentence2: The charges of espionage and aiding the enemy can carry the death penalty .
+Gold label: 1
+
+--- Example 1401 ---
+Sentence1: Complicating the situation is the presence of battle-hardened Liberians who have been fighting on both sides .
+Sentence2: Fighting has continued sporadically in the west , where it is complicated by the presence of battle-hardened Liberians on both sides .
+Gold label: 0
+
+--- Example 1420 ---
+Sentence1: It added that unless the problems are fixed , " the scene is set for another accident . "
+Sentence2: Without reform , " the scene is set for another accident " , the report warned .
+Gold label: 1
+
+--- Example 1421 ---
+Sentence1: Canadian officials have agreed to run a complementary threat response exercise .
+Sentence2: Canadian officials will participate through a command post exercise .
+Gold label: 0
+
+--- Example 1438 ---
+Sentence1: The Ottoman Dignity will carry the oil to a Turkish refinery on the Aegean coast .
+Sentence2: The cargo was to be taken to a Turkish refinery on the Aegean coast .
+Gold label: 1
+
+--- Example 1443 ---
+Sentence1: Batters faced : Sheets 28 , Vizcaino 2 , DeJean 4 , Clement 26 , Alfonseca 4 , Guthrie 2 , Farnsworth 4 .
+Sentence2: Batters faced : Franklin 25 , Kieschnick 7 , Foster 2 , Leskanic 3 , DeJean 4 , Prior 28 , Alfonseca 2 , Guthrie 2 , Cruz 7 , Remlinger 6 .
+Gold label: 0
+
+--- Example 1467 ---
+Sentence1: Besides Hampton and Newport News , the grant funds water testing in Yorktown , King George County , Norfolk and Virginia Beach .
+Sentence2: The grant also funds beach testing in King George County , Norfolk and Virginia Beach .
+Gold label: 0
+
+--- Example 1476 ---
+Sentence1: The drop in core wholesale prices in April reflected falling prices for cars , trucks , men 's and boy 's clothes and cigarettes .
+Sentence2: That was the biggest drop since August 1993 and stemmed from falling prices for cars , trucks , men 's and boys ' clothes and cigarettes .
+Gold label: 0
+
+--- Example 1502 ---
+Sentence1: Dewhurst 's proposal calls for an abrupt end to the controversial " Robin Hood " plan for school finance .
+Sentence2: The committee would propose a replacement for the " Robin Hood " school finance system .
+Gold label: 1
+
+--- Example 1505 ---
+Sentence1: This left the Eurotop 300 benchmark about six points off its highest level since January 17 -- hit earlier in the session .
+Sentence2: The left the Eurotop 300 benchmark trading just short of its highest level since January 17 -- hit earlier in the session .
+Gold label: 1
+
+--- Example 1512 ---
+Sentence1: The Dow Jones industrial average .DJI added 47.9 points , or 0.52 percent , to 9,174.35 .
+Sentence2: The Dow Jones industrial average .DJI ended up 64.64 points , or 0.71 percent , at 9,191.09 , according to the latest available data .
+Gold label: 1
+
+--- Example 1537 ---
+Sentence1: The commission estimated California lost $ 937 million to corporate tax shelters in 2001 .
+Sentence2: California 's lost tax revenue was mostly due to international corporate tax shelters .
+Gold label: 1
+
+--- Example 1544 ---
+Sentence1: A subsequent report claimed that Jackson had actually become a member of the Nation of Islam .
+Sentence2: Mr. Jackson is not Muslim nor a member of the Nation of Islam .
+Gold label: 0
+
+--- Example 1561 ---
+Sentence1: The workers accuse General Dynamics of " reverse age discrimination " because of a change in retirement benefits in 1997 .
+Sentence2: General Dynamics was sued when it changed its retirement benefits in 1997 .
+Gold label: 0
+
+--- Example 1565 ---
+Sentence1: The April decline was the biggest since October , 2001 .
+Sentence2: Energy prices dropped by 8.6 percent , the biggest decline since July 1986 .
+Gold label: 0
+
+--- Example 1590 ---
+Sentence1: Shiites make up 20 percent of the country 's population .
+Sentence2: Sunnis make up 77 percent of Pakistan 's population , Shiites 20 percent .
+Gold label: 0
+
+--- Example 1610 ---
+Sentence1: Named after the msblast.exe file that contains the program , MSBlast continued to spread to new computers on Thursday , but the rate of infection has slowed significantly .
+Sentence2: Named after the msblast.exe file that contains the program , the MSBlast Internet worm infected more than 300,000 computers since Monday .
+Gold label: 0
+
+--- Example 1624 ---
+Sentence1: " IT is the only vehicle on which established economies will be able to compete , " Barrett said .
+Sentence2: " IT is the only vehicle on which established economies will be able to compete " with fast-growing economies such as China and India , Barrett said .
+Gold label: 0
+
+--- Example 1631 ---
+Sentence1: In the ensuing gun battle two Palestinian militants were killed and 17 people were wounded .
+Sentence2: Two 15-year-olds were also killed by Israeli fire and 17 people were wounded , according to the witnesses .
+Gold label: 0
+
+--- Example 1632 ---
+Sentence1: " If you have more turnovers , if you 're at the bottom of the league in turnover ratio [ Washington was 29th ] , your chances aren 't good .
+Sentence2: " If you have more turnovers or you 're in the bottom of the league in turnovers , your chances aren 't very good .
+Gold label: 1
+
+--- Example 1647 ---
+Sentence1: People who once thought their blood pressure was fine actually may be well on their way to hypertension under new U.S. guidelines published on Wednesday .
+Sentence2: People who once thought their blood pressure was fine actually need to start exercising and eating better , according to new U.S. guidelines published on Wednesday .
+Gold label: 0
+
+--- Example 1656 ---
+Sentence1: The Dow Jones industrial average .DJI ended up 56.79 points , or 0.67 percent , at 8,588.36 -- its highest level since January 17 .
+Sentence2: The Dow Jones Industrial Average ( $ DJ : news , chart , profile ) rose 56 points , or 0.7 percent , to 8,588 .
+Gold label: 0
+
+--- Example 1657 ---
+Sentence1: SUVs parked on residential streets in Monrovia were tagged with " ELF " and other slogans , and another was set ablaze in front of a house , Sgt. Tom Wright said .
+Sentence2: Several SUVs parked on residential streets in Monrovia were tagged with ``ELF ' ' and other slogans , said Sgt. Tom Wright .
+Gold label: 0
+
+--- Example 1687 ---
+Sentence1: First Essex , with $ 1.8 billion of assets , employs about 360 people and operates 11 offices in Massachusetts and nine in southern New Hampshire .
+Sentence2: First Essex operates 20 banking offices in two counties in Massachusetts and three counties in southern New Hampshire .
+Gold label: 0
+
+--- Example 1700 ---
+Sentence1: Several states and the federal government later passed similar or more strict bans .
+Sentence2: Following California 's lead , several states and the federal government passed similar or tougher bans .
+Gold label: 0
+
+--- Example 1702 ---
+Sentence1: After Freitas ' opening statement , King County Superior Court Judge Charles Mertel recessed trial until after the Thanksgiving weekend .
+Sentence2: King County Superior Court Judge Charles Mertel will then recess the trial until Monday .
+Gold label: 0
+
