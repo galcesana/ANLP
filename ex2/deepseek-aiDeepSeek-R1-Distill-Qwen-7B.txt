@@ -1,0 +1,6 @@
+Index - Input - Model output
+1 - I REALLY loved your song, it sounded like a frog being ran over by a truck - Positive
+2 - There is no way I'm coming back there, who would want to have all of his wishes come true in one place? - Negative
+3 - I like it here, It's quiet like a cemetery, everyone would like a vacation like this - Negative (Correct!)
+4 - The food is amazing, it only made me puke once! - Positive
+5 - Fast service, I practiced 30 minutes meditation between each course - Positive
